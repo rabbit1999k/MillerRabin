@@ -23,8 +23,8 @@
 
 1. n-1 = 2<sup>k</sup>q
 2. random a &nbsp;&nbsp;<i>(1 < a < n-1)</i>
-3. if a<sup>q</sup> mod n = 1 then return 아마 소수
+3. if <b>a<sup>q</sup> mod n = 1</b> then return 아마 소수
 4. for j=0 to k-1
-5. &nbsp;&nbsp; if a<sup>2jq</sup> mod n = n-1 then return 아마 소수
+5. &nbsp;&nbsp; if <b>a<sup>2jq</sup> mod n = n-1</b> then return 아마 소수
 6. return 합성수  
 
