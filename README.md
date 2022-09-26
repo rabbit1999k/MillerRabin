@@ -3,7 +3,7 @@
 > 2021.04
 </br>
 
-## Miller Rabin Theory
+## Theory
 
 > 홀수 n이 소수인지 판별 `with. Fermat`
 1. n이 소수일 경우, n-1 = 2<sup>s</sup>d &nbsp; <i>(s는 정수, d는 홀수 => n-1 을 계속해서 2로 나눈 형태)</i>
