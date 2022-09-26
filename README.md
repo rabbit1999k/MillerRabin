@@ -10,13 +10,15 @@
 2. 3,4 중 한가지 성립
 3. a<sup>d</sup> ≡ 1 (mod n)
 4. a<sup>2rd</sup> ≡ -1 (mod n)  
-<hr>
 
-5. 위와 같은 이론을 바탕으로 <b>Miller-Rabin 소수판별법</b>은 6,7번이 성립하면 합성수라는 강한 증거가 된다.
+</br>
+
+5. 위와 같은 이론을 바탕으로 <b><i>Miller-Rabin 소수판별법</i></b>은 6,7번이 성립하면 합성수라는 강한 증거가 된다.
 6. a<sup>d</sup> &#8802; 1(mod n)
 7. a<sup>2rd</sup> &#8802; -1 (mod n) 
 
 </br>
+
 ## Algorithm
 
 1. n-1 = *q
