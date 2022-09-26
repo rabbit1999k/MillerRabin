@@ -21,7 +21,7 @@
 
 ## Algorithm
 
-1. n-1 = *q
+1. n-1 = 2<sup>k</sup>q
 2. random a &nbsp;&nbsp;<i>(1 < a < n-1)</i>
 3. if a<sup>q</sup> mod n = 1 then return 아마 소수
 4. for j=0 to k-1
